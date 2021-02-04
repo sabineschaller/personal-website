@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sabinebertram.com/"
 title = "Sabine (Bertram) Schaller"
 theme = ["hugo-coder", "webmonetization"]
 languageCode = "en-us"
