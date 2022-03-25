@@ -1,5 +1,5 @@
-baseURL = "https://sabinebertram.com/"
-title = "Sabine (Bertram) Schaller"
+baseURL = "https://sabineschaller.com/"
+title = "Sabine Schaller"
 theme = ["hugo-coder", "webmonetization"]
 languageCode = "en-us"
 defaultcontentlanguage = "en"
@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
   defaultMarkdownHandler = "blackfriday"
 
 [params]
-  author = "Sabine (Bertram) Schaller"
+  author = "Sabine Schaller"
   info = "Backend Engineer, Consultant, Founder"
   description = "Sabine Schaller's personal website"
   keywords = "developer,personal"
@@ -49,12 +49,12 @@ pygmentscodefencesguesssyntax = true
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/sabinebertram/"
+  url = "https://github.com/sabineschaller/"
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 2
-  url = "https://linkedin.com/in/sabinebertram/"
+  url = "https://linkedin.com/in/sabineschaller/"
 
 # Menu links
 [[menu.main]]

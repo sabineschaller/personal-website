@@ -3,8 +3,8 @@
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "themes/webmonetization"]
 	path = themes/webmonetization
-	url = git@github.com:sabinebertram/hugo-webmonetization-component.git
+	url = git@github.com:sabineschaller/hugo-webmonetization-component.git
 [submodule "public"]
 	path = public
-	url = git@github.com:sabinebertram/sabinebertram.github.io.git
+	url = git@github.com:sabineschaller/sabineschaller.github.io.git
 	branch = main
